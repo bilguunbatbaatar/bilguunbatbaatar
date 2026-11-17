@@ -14,7 +14,7 @@
 - 🚀 **Founder and developer of [hairiinzahia.com](https://hairiinzahia.com)**, a live business selling personalized gift websites. It runs on Cloudflare Workers + R2, takes QPay payments and uses the Claude API.
 - 💼 **Software Engineering Intern at AiLAB LLC** (Jan 2026): automated social-media sales with n8n, webhooks, an AI chat agent, QPay and an MCP server.
 - 🏆 **"Best Project" award**, Asia-region DCON (Deep Learning Contest) 2023, for a PPE-detection computer vision system.
-- 🎓 B.Sc. Software Engineering, NUM (GPA 3.8, expected 2027) · Diploma in Electronics Engineering, MUST-Kosen (GPA 3.9)
+- 🎓 Final-year B.Sc. Software Engineering student, NUM (GPA 3.8, graduating 2027) · Diploma in Electronics Engineering, MUST-Kosen (GPA 3.9)
 - 🌏 Mongolian (native) · English (advanced) · Japanese (learning)
 
 ## Featured projects
